@@ -1,0 +1,10 @@
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Form1.resources
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\moosa\Documents\Software Development\Practise\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
